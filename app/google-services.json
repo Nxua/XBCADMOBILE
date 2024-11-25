@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126997814441",
+    "project_id": "jetdesk-fde59",
+    "storage_bucket": "jetdesk-fde59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126997814441:android:d142e6afa41d6efca0ddb8",
+        "android_client_info": {
+          "package_name": "com.jetdesk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK48H3bIHQ0Fd61xpql1WHfpXbQ5BYOvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

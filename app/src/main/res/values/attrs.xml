@@ -1,0 +1,4 @@
+<resources>
+    <attr name="splashBackground" format="color" />
+    <attr name="splashTextColor" format="color" />
+</resources>
